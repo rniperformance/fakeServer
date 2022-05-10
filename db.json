@@ -1,0 +1,973 @@
+{
+  "routines": [
+    {
+		"id": 1,
+		"meta": {
+		  "title": "Sample Weightlifting Routine",
+		  "type": [
+			"Weightlifting",
+			"Strength",
+			"Bodybuilding"
+		  ],
+		  "weeks": 4,
+		  "days": "3-5",
+		  "notes": [
+      "This is originally a 5 day advanced routine for transitioning a high-level powerlifter (200kg+ squat) into a weightlifter.",
+      "It has been condensed and simplified into a 3 days beginner/intermediate routine.",
+      "The original routine owner had slightly limited flexibility, and certain muscular imbalances, thus specific accessory exercises have been selected here.",
+      "These accessory exercises are still encouraged for beginners.",
+      "Bench Press has been included due to special request, but is ideally omitted for people with limited shoulder flexibility.",
+      "Ideally for someone who has at least 1 year of any gym training experience, and has correct squat and deadlift technique.",
+			"Fix shoulder external rotation weakness",
+			"Strengthen rhomboids"
+		  ]
+		},
+		"exercises": [
+		  {
+			"name": "Power Cleans (From Dip Position)",
+			"weeks": [
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Power Jerk",
+			"weeks": [
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Front Squat",
+			"weeks": [
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Snatch Pull",
+			"weeks": [
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Any Glute Work",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Leg Extension",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Bent Over Row",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  },
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  },
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  },
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Pull Up",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Any Rhomboid Work",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Rear Delt Fly",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": 15
+			  },
+			  {
+				"sets": 3,
+				"reps": 15
+			  },
+			  {
+				"sets": 3,
+				"reps": 15
+			  },
+			  {
+				"sets": 3,
+				"reps": 15
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Biceps",
+			"day": 1
+		  },
+		  {
+			"name": "Any Transverse Abs Work",
+			"weeks": [
+			  {
+				"sets": "3-5",
+				"reps": "15-25"
+			  },
+			  {
+				"sets": "3-5",
+				"reps": "15-25"
+			  },
+			  {
+				"sets": "3-5",
+				"reps": "15-25"
+			  },
+			  {
+				"sets": "3-5",
+				"reps": "15-25"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Any Shoulder External Rotation",
+			"weeks": [
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Shoulder Push Outs",
+			"weeks": [
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  }
+			],
+			"day": 1
+		  },
+		  {
+			"name": "Block Power Snatch",
+			"weeks": [
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Block Clean Pull",
+			"weeks": [
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Back Squat",
+			"weeks": [
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Overhead Squat",
+			"weeks": [
+			  {
+				"sets": "2-3",
+				"reps": "5-8"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "5-8"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "5-8"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "5-8"
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Any Glute Work",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Leg Extension",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Weighted Back Raise",
+			"weeks": [
+			  {
+				"sets": "2-3",
+				"reps": "10+5s"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "10+5s"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "10+5s"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "10+5s"
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "DB Kroc Row",
+			"day": 3
+		  },
+		  {
+			"name": "1H Tricep Rope Pulldown",
+			"day": 3
+		  },
+		  {
+			"name": "Weighted Torso Twists",
+			"day": 3
+		  },
+		  {
+			"name": "Any Shoulder External Rotation",
+			"weeks": [
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Shoulder Push Outs",
+			"weeks": [
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  },
+			  {
+				"sets": "0-3",
+				"reps": "10-15"
+			  }
+			],
+			"day": 3
+		  },
+		  {
+			"name": "Power Clean and Jerk",
+			"weeks": [
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Power Snatch",
+			"weeks": [
+			 {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Push Press",
+			"weeks": [
+			 {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  },
+			  {
+				"sets": 5,
+				"reps": 3
+			  },
+			  {
+				"sets": 5,
+				"reps": 2
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Front Squat",
+			"weeks": [
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  },
+			  {
+				"sets": 4,
+				"reps": 5
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Clean High Pull",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": 5
+			  },
+			  {
+				"sets": 3,
+				"reps": 5
+			  },
+			  {
+				"sets": 3,
+				"reps": 5
+			  },
+			  {
+				"sets": 3,
+				"reps": 5
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Any Glute Work",
+			"weeks": [
+			  {
+				"sets": 2,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": "0-2",
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 2,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 2,
+				"reps": "8-10"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "DB/BB Bench Press",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  },
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  },
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  },
+			  {
+				"sets": 3,
+				"reps": "5-6"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "DB/BB Shoulder Press",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Power Kroc Rows",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  },
+			  {
+				"sets": 3,
+				"reps": "8-10"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Seal Rows or Pendlay Row",
+			"weeks": [
+			  {
+				"sets": "2-3",
+				"reps": "12-15"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "12-15"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "12-15"
+			  },
+			  {
+				"sets": "2-3",
+				"reps": "12-15"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Any Rhomboid Work",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "12-15"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Tricep Pulldown",
+			"weeks": [
+			  {
+				"sets": "1-3",
+				"reps": 15
+			  },
+			  {
+				"sets": "1-3",
+				"reps": 15
+			  },
+			  {
+				"sets": "1-3",
+				"reps": 15
+			  },
+			  {
+				"sets": "1-3",
+				"reps": 15
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Lying Leg Raise into Hip Raise",
+			"weeks": [
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  },
+			  {
+				"sets": 3,
+				"reps": "10-15"
+			  }
+			],
+			"day": 5
+		  },
+		  {
+			"name": "Any Rotator Cuff Work",
+			"day": 5
+		  }		 
+		],
+		"intensities": [
+		  {
+			"value": 70,
+			"week": 1
+		  },
+		  {
+			"value": 75,
+			"week": 2
+		  },
+		  {
+			"value": 72.5,
+			"week": 3
+		  },
+		  {
+			"value": 77.5,
+			"week": 4
+		  }
+		]
+    }
+  ],  
+  "users": {
+    "guest": {
+      "routines": [1],
+	  	"currentRoutine": 1,
+			"weightSubmissions": [
+				{
+					"id": 1,
+					"date": "2022-05-07",
+					"bodyweight": 90,
+					"lifts": {
+						"squat": {
+							"weight": 100,
+							"reps": 5,
+							"sets": 3
+						},
+						"dl": {
+							"weight": 120,
+							"reps": 5,
+							"sets": 3
+						},
+						"bbbench": {
+							"weight": 80,
+							"reps": 3,
+							"sets": 5
+						},
+						"bbsp": {
+							"weight": 60,
+							"reps": 4,
+							"sets": 2
+						},
+						"bbrow": {
+							"weight": 70,
+							"sets": 4,
+							"reps": 8
+						},
+						"cj": {
+							"weight": 100,
+							"sets": 4,
+							"reps": 2
+						},
+						"snatch": {
+							"weight": 75,
+							"sets": 4,
+							"reps": 2
+						}
+					}
+				},
+				{
+					"id": 2,
+					"date": "2022-05-09",
+					"bodyweight": 92,
+					"lifts": {
+						"squat": {
+							"weight": 105,
+							"reps": 3,
+							"sets": 5
+						},
+						"dl": {
+							"weight": 125,
+							"reps": 5,
+							"sets": 2
+						},
+						"bbbench": {
+							"weight": 92,
+							"reps": 3,
+							"sets": 3
+						},
+						"cj": {
+							"weight": 109,
+							"reps": 1,
+							"sets": 3
+						}
+					}
+				},
+				{
+					"id": 3,
+					"date": "2022-05-12",
+					"bodyweight": 90,
+					"lifts": {
+						"squat": {
+							"weight": 105,
+							"reps": 3,
+							"sets": 5
+						},
+						"bbsp": {
+							"weight": 65,
+							"reps": 5,
+							"sets": 2
+						},
+						"bbbench": {
+							"weight": 100,
+							"reps": 3,
+							"sets": 3
+						},
+						"snatch": {
+							"weight": 79,
+							"sets": 3,
+							"reps": 1
+						}
+					}
+				},
+				{
+					"id": 4,
+					"date": "2022-05-15",
+					"bodyweight": 93,
+					"lifts": {
+						"bbrow": {
+							"weight": 105,
+							"reps": 3,
+							"sets": 5
+						},
+						"bbsp": {
+							"weight": 65,
+							"reps": 5,
+							"sets": 2
+						},
+						"bbbench": {
+							"weight": 110,
+							"reps": 3,
+							"sets": 3
+						},
+						"cj": {
+							"weight": 85,
+							"reps": 3,
+							"sets": 3
+						},
+						"snatch": {
+							"weight": 69,
+							"reps": 3,
+							"sets": 3
+						}
+					}
+				}
+			]
+    }
+  }
+}
