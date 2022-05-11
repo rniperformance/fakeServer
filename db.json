@@ -834,10 +834,6 @@
 ]
 }
 ],  
-"users": {
-"guest": {
-"routines": [1],
-"currentRoutine": 1,
 "weightSubmissions": [
 {
 "id": 1,
@@ -968,6 +964,4 @@
 }
 }
 ]
-}
-}
 }
