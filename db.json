@@ -836,9 +836,12 @@
 ],
 "preferences":{
 "chartPreferences": {
-"bw": false,
+"bw": true,
 "squat": true,
-"dl": false
+"dl": true,
+"cj":true,
+"snatch":true,
+"bbsp":true
 }},
 "weightSubmissions": [
 {
