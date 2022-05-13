@@ -834,12 +834,10 @@
 ]
 }
 ],
-"preferences": {
 "chartPreferences": {
 "bw": false,
 "squat": true,
 "dl": false
-}
 },
 "weightSubmissions": [
 {
